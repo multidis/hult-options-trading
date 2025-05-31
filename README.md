@@ -1,2 +1,4 @@
-# hult-options-trading
-Options Trading class at Hult International Business School, San Francisco.
+# Options Trading with Python
+
+Summer Elective at Hult International Business School, San Francisco.
+
